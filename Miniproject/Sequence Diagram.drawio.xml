@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram id="MlQItQ62aXQ0eYMlc64h" name="Trang-19">
+    <mxGraphModel dx="1642" dy="962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;verticalAlign=top;align=left;" value="" vertex="1">
+          <mxGeometry height="420" width="1250" x="30" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-94" parent="1" style="text;html=1;align=left;verticalAlign=top;fontStyle=1;fontSize=11;" value="alt" vertex="1">
+          <mxGeometry height="20" width="40" x="38" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-95" parent="1" style="text;html=1;align=left;verticalAlign=top;fontStyle=0;fontSize=11;fontColor=#B8860B;" value="Lịch trống" vertex="1">
+          <mxGeometry height="20" width="120" x="38" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-97" parent="1" style="text;html=1;align=left;verticalAlign=top;fontStyle=0;fontSize=11;fontColor=#B8860B;" value="Lịch không trống" vertex="1">
+          <mxGeometry height="30" width="140" x="38" y="458" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-98" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;" value="Bệnh nhân" vertex="1">
+          <mxGeometry height="20" width="100" x="70" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-99" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="100" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-100" edge="1" parent="1" style="html=1;dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="95" as="sourcePoint" />
+            <mxPoint x="120" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value=":DatLichUI" vertex="1">
+          <mxGeometry height="30" width="110" x="295" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-102" edge="1" parent="1" style="html=1;dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="90" as="sourcePoint" />
+            <mxPoint x="350" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value=":AppointmentService" vertex="1">
+          <mxGeometry height="30" width="115" x="535" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-104" edge="1" parent="1" style="html=1;dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="592" y="90" as="sourcePoint" />
+            <mxPoint x="592" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value=":DentistService" vertex="1">
+          <mxGeometry height="30" width="120" x="800" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-106" edge="1" parent="1" style="html=1;dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="90" as="sourcePoint" />
+            <mxPoint x="860" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" value=":CSDL" vertex="1">
+          <mxGeometry height="35" width="130" x="995" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-108" edge="1" parent="1" style="html=1;dashed=1;endArrow=none;startArrow=none;strokeColor=#000000;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="330" as="sourcePoint" />
+            <mxPoint x="1060" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="195" width="10" x="115" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="180" width="10" x="345" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="55" width="10" x="345" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="115" width="10" x="587" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="10" x="855" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-115" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#000000;fontSize=11;align=center;verticalAlign=bottom;" value="Gửi yêu cầu đặt lịch hẹn">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="140" as="sourcePoint" />
+            <mxPoint x="345" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-116" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#000000;fontSize=11;align=center;verticalAlign=bottom;" value="Gửi yêu cầu đặt lịch của bệnh nhân">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="178" as="sourcePoint" />
+            <mxPoint x="587" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-118" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#000000;fontSize=11;dashed=1;align=center;verticalAlign=bottom;" value="Gửi phản hồi đặt lịch thành công">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="587" y="245" as="sourcePoint" />
+            <mxPoint x="355" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-119" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#000000;fontSize=11;align=center;verticalAlign=bottom;" value="Thông báo có lịch khám mới">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597" y="275" as="sourcePoint" />
+            <mxPoint x="855" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-120" edge="1" parent="1" style="html=1;endArrow=open;endFill=0;dashed=1;strokeColor=#000000;fontSize=11;align=center;verticalAlign=bottom;" value="Tạo lịch khám">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="305" as="sourcePoint" />
+            <mxPoint x="995" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-121" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#000000;fontSize=11;dashed=1;align=center;verticalAlign=bottom;" value="Trả thông báo cho bệnh nhân">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="330" as="sourcePoint" />
+            <mxPoint x="125" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-122" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#000000;fontSize=11;dashed=1;align=center;verticalAlign=bottom;" value="Thông báo lịch đặt không thành công">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="592" y="505" as="sourcePoint" />
+            <mxPoint x="355" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-123" edge="1" parent="1" style="html=1;endArrow=block;endFill=1;strokeColor=#000000;fontSize=11;dashed=1;align=center;verticalAlign=bottom;" value="Thông báo đặt không thành công">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="550" as="sourcePoint" />
+            <mxPoint x="125" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-124" edge="1" parent="1" source="LMvEW9EsYVBFUEQBOyhr-93" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LMvEW9EsYVBFUEQBOyhr-93" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-62" y="511" as="sourcePoint" />
+            <mxPoint x="-12" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-126" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="592" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="LMvEW9EsYVBFUEQBOyhr-127" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="LMvEW9EsYVBFUEQBOyhr-126" value="Kiểm tra lịch">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="218" />
+            </Array>
+            <mxPoint x="597" y="188" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
